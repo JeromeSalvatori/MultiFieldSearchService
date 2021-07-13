@@ -1,5 +1,5 @@
 # MultiFieldSearchService
-Allows easy mysql request automation from html forms in php.
+Allows easy mysql search request automation from html forms in php.
 
 Returns an array containing the request string and a nested array containing values for prepared requests.
 
